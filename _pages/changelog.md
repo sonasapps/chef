@@ -9,7 +9,11 @@ Be sure to check for updates as Sonas Chef Journal is updated regularly!
 
 <br>
 ### `Latest Release`
-# **Version 1.5**
+# **Version 1.6**
+• Tip Jar added to Settings page
+• Minor bug fixes and enhancements
+
+#### **Version 1.5**
 • In-app Dark Mode setting -- turn the lights off in the Settings tab for a gorgeous Dark Mode<br>
 • Multiple pictures -- you can now add up to 3 pictures per post<br>
 • Added an all-new menu when viewing entries for sharing, adding to favorites, or deleting<br>
