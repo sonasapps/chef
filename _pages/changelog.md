@@ -10,12 +10,12 @@ Be sure to check for updates as Sonas Chef Journal is updated regularly!
 <br>
 ### `Latest Release`
 # **Version 1.6.6**
-• NEW: Unlock even more images per entry (up to 6 total) -- Go to Settings > Manage-Add-ons
-• Fixed a spacing issue when adding a new post in Dark Mode
-• Fixed a bug that caused the food type label to not show when adding a new entry
-• Removed white space when less than 3 images were saved
-• You can now start entering pictures without first selecting the food type (previously you would receive an error)
-• Removed Tip Jar in favor of Additional Images Add-on
+• NEW: Unlock even more images per entry (up to 6 total) -- Go to Settings > Manage-Add-ons<br>
+• Fixed a spacing issue when adding a new post in Dark Mode<br>
+• Fixed a bug that caused the food type label to not show when adding a new entry<br>
+• Removed white space when less than 3 images were saved<br>
+• You can now start entering pictures without first selecting the food type (previously you would receive an error)<br>
+• Removed Tip Jar in favor of Additional Images Add-on<br>
 
 #### **Version 1.6**
 • Tip Jar added to Settings page
