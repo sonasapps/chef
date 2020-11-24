@@ -66,9 +66,9 @@ features                                  :
     description                           : Download once and call it a day.
     fontawesome_icon_name                 : credit-card
 
-  - title                                 : No More Lost Recipes
-    description                           : Build a personal database of easy-to-find recipes
-    fontawesome_icon_name                 : info-circle
+  - title                                 : In-App Dark Mode
+    description                           : Turn off the lights with the gorgeous dark mode inside Settings.
+    fontawesome_icon_name                 : adjust
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
