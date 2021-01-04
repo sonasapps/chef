@@ -4,9 +4,6 @@ title: What's New
 include_in_header: true
 ---
 
-# Version History
-Be sure to check for updates as Sonas Chef Journal is updated regularly!
-
 <br>
 ### `Latest Release`
 # **Version 1.6.6**
