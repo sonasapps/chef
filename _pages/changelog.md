@@ -3,10 +3,17 @@ layout: page
 title: What's New
 include_in_header: true
 ---
-
 <br>
 ### `Latest Release`
-# **Version 1.6.6**
+# **Version 1.7**
+• NEW: Entries can now be edited - change the text or take new photos for existing entries<br>
+• NEW: Food previews on home page - updated table design now has image previews at a glance<br>
+• IMPROVED: Updated header - refreshed minimal design<br>
+• IMPROVED: Privacy and What’s New links in Settings open in-app<br>
+• IMPROVED: Multiple Images In-App-Purchase reduced price<br>
+• IMPROVED: Various graphical tweaks and adjustments<br>
+
+#### **Version 1.6.6**
 • NEW: Unlock even more images per entry (up to 6 total) -- Go to Settings > Manage-Add-ons<br>
 • Fixed a spacing issue when adding a new post in Dark Mode<br>
 • Fixed a bug that caused the food type label to not show when adding a new entry<br>
