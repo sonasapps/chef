@@ -8,7 +8,7 @@ include_in_header: false
 October 23 2020
 
 # Privacy Policy
-Ryan Klumph built Sonas Chef Journal as a Commercial app. This Application is provided by Ryan Klumph and is intended for use as is. This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Application. If you choose to use my Application, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Sonas Chef Journal was built as a free app. This Application is provided by Ryan Klumph and is intended for use as is. This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Application. If you choose to use my Application, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
 <br>
 
