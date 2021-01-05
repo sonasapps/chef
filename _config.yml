@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : heart
     
   - title                                 : iPhone Exclusive
-    description                           : Built specifically for iOS.
+    description                           : Built specifically for iOS and optimized for the latest iPhones.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Privacy First
