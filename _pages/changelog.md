@@ -5,7 +5,13 @@ include_in_header: true
 ---
 <br>
 ### `Latest Release`
-# **Version 1.7**
+# **Version 1.7.1**
+• FIX: Resolved an issue that prevented you from editing an entry if it was marked as a favorite<br>
+• FIX: Resolved an issue dismissing the camera when editing an entry<br>
+• IMPROVED: Better button handling throughout the app<br>
+• IMPROVED: Slight UI adjustment on the home table's circle previews<br>
+
+#### **Version 1.7**
 • NEW: Entries can now be edited - change the text or take new photos for existing entries<br>
 • NEW: Food previews on home page - updated table design now has image previews at a glance<br>
 • IMPROVED: Updated header - refreshed minimal design<br>
