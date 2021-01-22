@@ -5,7 +5,10 @@ include_in_header: true
 ---
 <br>
 ### `Latest Release`
-# **Version 1.7.1**
+# **Version 1.7.2**
+• NEW: Entry Dates are now editable! When editing an entry, simply tap on the date button to adjust. Then tap the checkmark to save.
+
+#### **Version 1.7.1**
 • FIX: Resolved an issue that prevented you from editing an entry if it was marked as a favorite<br>
 • FIX: Resolved an issue dismissing the camera when editing an entry<br>
 • IMPROVED: Better button handling throughout the app<br>
