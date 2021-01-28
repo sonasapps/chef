@@ -30,14 +30,14 @@ Each entry gets tagged with how you liked the dish, how difficult it was to make
 Sonas Chef Journal is a private repository, however you have the option to share posts on your favorite social platforms. 
 
 ### FAQ<br>
-Q: How do you pronounce Sonas?
+Q: How do you pronounce Sonas?<br>
 A: Sonas is pronounced like 'Saw-noss." Go ahead, give it a try!
 
-Q: How many photos can be added into a post?
+Q: How many photos can be added into a post?<br>
 A: Today, your free download includes a single image per post. You can unlock additional images (total of 6) from Settings > Manage Add-ons
 
-Q: Are my posts private and secure?
+Q: Are my posts private and secure?<br>
 A: 100% yes. Your posts are private, stored on your device, and are not shared anywhere, unless you tap the share button of course!
 
-Q: Is Sonas Chef Journal available for iPad?
+Q: Is Sonas Chef Journal available for iPad?<br>
 A: Today, Sonas Chef Journal is available exclusively for iPhone
