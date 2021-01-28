@@ -10,7 +10,7 @@ Click [here](https://www.icloud.com/iclouddrive/0l0G4saoR1dCmIHEvQq-y2DIw#Sonas_
 ### Introducing Sonas Chef Journal
 Sonas Chef Journal isn't just another digital recipe book--it's your culinary companion! No ads. No subscriptions.
 
-![](/assets/image1.png)<br><br>
+![](/assets/image2.jpeg)<br><br>
 
 Featuring a clean and fun design for tracking the dishes and drinks you create, Sonas Chef Journal is the best culinary journaling app. Whether you're a seasoned chef, or just getting started in the kitchen, Sonas Chef Journal will help you maintain a beautiful culinary database.
 
