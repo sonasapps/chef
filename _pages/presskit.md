@@ -5,12 +5,12 @@ include_in_header: true
 ---
 
 ## Press Kit
-Click [here](https://www.icloud.com/iclouddrive/0SfLqT0q1ENFF-WklQ5TLwRkQ#Artbox_Press_Kit) to download the full press kit with screenshots, icons, and promo art.
+Click [here](https://www.icloud.com/iclouddrive/0l0G4saoR1dCmIHEvQq-y2DIw#Sonas_Chef_Journal_Press_Kit) to download the full press kit with screenshots, icons, and promo art.
 
 ### Introducing Sonas Chef Journal
 Sonas Chef Journal isn't just another digital recipe book--it's your culinary companion! No ads. No subscriptions.
 
-![](/assets/artbox-coverflow.png)<br><br>
+![](/assets/image1.png)<br><br>
 
 Featuring a clean and fun design for tracking the dishes and drinks you create, Sonas Chef Journal is the best culinary journaling app. Whether you're a seasoned chef, or just getting started in the kitchen, Sonas Chef Journal will help you maintain a beautiful culinary database.
 
